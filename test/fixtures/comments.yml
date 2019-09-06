@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  creator: one
+  ticket: one
+  body: MyString
+
+two:
+  creator: two
+  ticket: two
+  body: MyString

@@ -1,0 +1,11 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: ticketing_development
+  pool: 5
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: ticketing_test
+  pool: 5
